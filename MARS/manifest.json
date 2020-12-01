@@ -1,0 +1,19 @@
+{
+    "name": "MARS",
+    "description": "Mark At Read System",
+    "version": "0.0.1",
+    "manifest_version":2,
+    "browser_action":{
+        "default_popup": "mars.html",
+        "default_icon": "mars512.png"
+    },
+    "commands":{
+        "_execute_browser_action":{
+            "suggested_key":{
+                "default":"Ctrl+Shift+A",
+                "mac":"MacCtrl+Shift+A"
+            },
+            "description": "Open mars.html"
+        }
+    }
+}
