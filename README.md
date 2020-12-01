@@ -14,6 +14,7 @@
 MARS - Mark At Read System, an Chrome Extension for marking and editing anywhere you read.
 
 # 初衷
+<<<<<<< HEAD
 1. 每次打开网页内容时，总想着像是PDF一样能够随意标注；
 2. 更希望下次重新打开某个历史页面时，可以重新出现曾经的标记内容；
 3. 甚至更进一步，我也想看到别人在这个页面上的标记内容。
